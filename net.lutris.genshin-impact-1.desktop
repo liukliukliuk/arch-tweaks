@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Type=Application
+Name=Genshin Impact
+Icon=/usr/share/icons/personal/genshin-impact.png
+Exec=env LUTRIS_SKIP_INIT=1 lutris lutris:rungameid/1
+Categories=Game
+StartupNotify=true
+StartupWMClass=genshinimpact.exe

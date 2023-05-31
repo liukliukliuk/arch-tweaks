@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Paimon Launcher
+Icon=/usr/share/icons/personal/paimon-launcher.png
+Exec=env LD_LIBRARY_PATH=/home/user/.local/lib /home/liuk/Games/Paimon_Launcher-1.4.5-2fae1f9-x86_64.AppImage
+Actions=
+Categories=Game
+StartupNotify=true
+StartupWMClass=GI Launcher
