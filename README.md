@@ -28,3 +28,17 @@ This is a collection of the tweaks and modification I've made to my Arch Linux i
 ``` 
 ## pacman -S spotify lutris discord extension-manager qbittorrent gdm-settings neofetch gnome-browser-connector spotify-adblock menulibre openssl-1.1
 ``` 
+
+# Extensions
+### Aylur's Widgets
+### Blur my Shell
+### Dash to Dock
+### Desktop Icons NG (DING)
+### Emoji Selector
+### Espresso
+### Hide Activities Button
+### Just Perfection
+### Looking Glass Button
+### Pano - Clipboard Manager
+### Rounded Corners
+### RunCat
